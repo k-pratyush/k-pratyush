@@ -1,5 +1,11 @@
 ### Hi there 👋
+### I'm Pratyush Kerhalkar
+I'm a final year student in Electronics and Communication Engineering at MIT Manipal
 
+### 📫 How to reach me:
+ - LinkedIn: https://www.linkedin.com/in/pratyush-kerhalkar-a556b7182/
+ - Email: pratyushkerhalkar@gmail.com
+ 
 <!--
 **k-pratyush/k-pratyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
