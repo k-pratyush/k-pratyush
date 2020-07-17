@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Pratyush Kerhalkar
-I'm a final year student in Electronics and Communication Engineering at MIT Manipal
+I'm a final year student in Electronics and Communication Engineering (minor in Computational Mathematics) at MIT Manipal
 
 ### 📫 How to reach me:
  - LinkedIn: https://www.linkedin.com/in/pratyush-kerhalkar-a556b7182/
